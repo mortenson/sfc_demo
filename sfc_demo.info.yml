@@ -1,0 +1,7 @@
+name: Single File Components Demo
+type: module
+description: Contains demo components to show off SFC.
+core: 8.x
+dependencies:
+  - sfc:sfc
+  - core:link
